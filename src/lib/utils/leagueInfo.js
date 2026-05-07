@@ -7,12 +7,11 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcom to the Purple Tommie Eaters database. This is your one-stop-shop for everything PTE. </p>
+  <p>Welcome to the Purple Tommie Eaters league page. This is your one-stop-shop for everything PTE. </p>
   <p>What started as a league between college friends has evolved into something much more serious. This league deserves something to memorialize the rivalries, the records, the history. This page exists to document it all. </p>
   <p>This page owes its creation to Jackson Giel. All-time leading scorer, the most championships in league history, holder of numerous records. This would not exist without him.</p>
   <p>I would also like to recognize Josh Doffing and Sam Younk. Their championships predate the creation of this page. We will always remeber Sam winning the innagural championship in 2022 and Josh winning in 2023. Also one of Jackson's championships will be unrecognized. The first of his back to back championships in 2024. </p>
-  <p></p>
-  <p></p>
+  
 `;
 
 /*   STEP 3   */
